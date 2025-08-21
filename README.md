@@ -18,10 +18,21 @@ A simple and interactive typing speed test built with ReactJS. This app presents
 
 ---
 
+## Technologies Used
+
+- **ReactJS** (Functional components with hooks)
+- **Tailwind CSS** for styling
+- **GitHub Pages** for deployment (optional)
+
+---
+
+## Tailwind CSS Usage
+
+This app uses [Tailwind CSS](https://tailwindcss.com/) — a utility-first CSS framework that enables rapid UI development through predefined class names.
+
 ## Demo
 
 <img width="959" height="494" alt="image" src="https://github.com/user-attachments/assets/0f57782e-0129-46a4-b3de-fadc9952a6ae" />
-
 
 ---
 
