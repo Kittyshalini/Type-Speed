@@ -1,39 +1,12 @@
-# Type-Speed
-A simple and elegant ReactJS typing speed test that measures your accuracy and speed with motivational quotes to type.
+# React + Vite
 
-## Features
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- Randomly displays one of several motivational quotes to type.
-- Real-time tracking of user input.
-- Calculates and displays:
-  - Total words typed
-  - Number of correct words
-  - Number of wrong words
-  - Accuracy percentage
-- Clean and minimalistic UI
-- Responsive design for easy use on different devices
+Currently, two official plugins are available:
 
----
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Demo
+## Expanding the ESLint configuration
 
-<img width="959" height="494" alt="image" src="https://github.com/user-attachments/assets/a7c33350-256d-4ae3-ba60-b8958fe5aebf" />
-
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or above recommended)
-- npm
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/typing-speed-test.git
-   cd typing-speed-test
-   npm i
-   npm run dev
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
